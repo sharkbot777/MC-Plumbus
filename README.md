@@ -1,2 +1,3 @@
-# ModTutorials
-Companion code for the modding tutorials at https://wiki.mcjty.eu/modding/index.php/Main_Page
+Adds a common household plumbus as seen on Rick and Morty to Minecraft 1.12
+
+
