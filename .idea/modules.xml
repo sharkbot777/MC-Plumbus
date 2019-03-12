@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharkbot777.plumbus.Plumbus-Working-Master_(another_copy).iml" filepath="$PROJECT_DIR$/.idea/modules/sharkbot777.plumbus.Plumbus-Working-Master_(another_copy).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharkbot777.plumbus.Plumbus-Working-Master_(another_copy).api.iml" filepath="$PROJECT_DIR$/.idea/modules/sharkbot777.plumbus.Plumbus-Working-Master_(another_copy).api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharkbot777.plumbus.Plumbus-Working-Master_(another_copy).main.iml" filepath="$PROJECT_DIR$/.idea/modules/sharkbot777.plumbus.Plumbus-Working-Master_(another_copy).main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharkbot777.plumbus.Plumbus-Working-Master_(another_copy).test.iml" filepath="$PROJECT_DIR$/.idea/modules/sharkbot777.plumbus.Plumbus-Working-Master_(another_copy).test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+
+tile.plumbus.plumbusblock.name=Plumbus Block
+tile.plumbus.bakedmodelblock.name=Baked Model Block
+
+
+message.plumbus.counter=Counter:
+message.plumbus.counter_par=Counter: %d
+
+
+

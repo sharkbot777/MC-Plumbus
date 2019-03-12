@@ -1,0 +1,15 @@
+[
+{
+  "modid": "plumbus",
+  "name": "Plumbus Mod",
+  "description": "Common household plumbus",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["sharkbot777"],
+  "credits": "McJty, SupperGerrie2, stackoverflow",
+  "logoFile": "",
+  "screenshots": []
+}
+]

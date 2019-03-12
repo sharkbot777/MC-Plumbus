@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="mcjty.modtut.ModTutorials-1.12.api" target="1.8" />
+      <module name="mcjty.modtut.ModTutorials-1.12.main" target="1.8" />
+      <module name="mcjty.modtut.ModTutorials-1.12.test" target="1.8" />
+      <module name="mcjty.modtut.Plumbus-Working-Bloat.api" target="1.8" />
+      <module name="mcjty.modtut.Plumbus-Working-Bloat.main" target="1.8" />
+      <module name="mcjty.modtut.Plumbus-Working-Bloat.test" target="1.8" />
+      <module name="mcjty.modtut.Plumbus-Working-Master.api" target="1.8" />
+      <module name="mcjty.modtut.Plumbus-Working-Master.main" target="1.8" />
+      <module name="mcjty.modtut.Plumbus-Working-Master.test" target="1.8" />
+      <module name="mcjty.modtut.Plumbus-Working-Master_(another_copy).api" target="1.8" />
+      <module name="mcjty.modtut.Plumbus-Working-Master_(another_copy).main" target="1.8" />
+      <module name="mcjty.modtut.Plumbus-Working-Master_(another_copy).test" target="1.8" />
+      <module name="mcjty.plumbus.Plumbus-Working-Master_(another_copy).api" target="1.8" />
+      <module name="mcjty.plumbus.Plumbus-Working-Master_(another_copy).main" target="1.8" />
+      <module name="mcjty.plumbus.Plumbus-Working-Master_(another_copy).test" target="1.8" />
+      <module name="sharkbot777.plumbus.Plumbus-Working-Master_(another_copy).api" target="1.8" />
+      <module name="sharkbot777.plumbus.Plumbus-Working-Master_(another_copy).main" target="1.8" />
+      <module name="sharkbot777.plumbus.Plumbus-Working-Master_(another_copy).test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
